@@ -1,1 +1,1 @@
-# DBMS_mini_project_1
+# DBMS SQL mini project 1
